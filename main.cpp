@@ -6,7 +6,7 @@ void decipher ();
 int main() {
 
     int x ;
-    cout<<"What do you like to do today?\n"
+    cout<<"What do you like to do \n"
           "1- Cipher a message\n"
           "2- Decipher a message\n"
           "3- End\n";
